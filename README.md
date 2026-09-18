@@ -23,3 +23,5 @@
 - [ ] 更新本 README 文件，填寫學號、姓名與 PyTorch 環境狀態。
 - [ ] 成功使用 Git 完成 `commit` 並 `push` 同步至 GitHub 雲端。
 test
+u12627018
+SFDD
